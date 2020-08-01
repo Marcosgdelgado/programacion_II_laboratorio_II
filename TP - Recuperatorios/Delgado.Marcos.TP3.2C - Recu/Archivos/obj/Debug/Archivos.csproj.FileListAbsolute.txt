@@ -1,0 +1,18 @@
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Archivos\bin\Debug\Archivos.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Archivos\bin\Debug\Archivos.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Archivos\bin\Debug\Excepciones.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Archivos\bin\Debug\Excepciones.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Archivos\obj\Debug\Archivos.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\bin\Debug\Archivos.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.pdb

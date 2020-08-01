@@ -1,0 +1,6 @@
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Enumerados\bin\Debug\Enumerados.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Enumerados\bin\Debug\Enumerados.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Enumerados\obj\Debug\Enumerados.csprojAssemblyReference.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Enumerados\obj\Debug\Enumerados.csproj.CoreCompileInputs.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Enumerados\obj\Debug\Enumerados.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Enumerados\obj\Debug\Enumerados.pdb

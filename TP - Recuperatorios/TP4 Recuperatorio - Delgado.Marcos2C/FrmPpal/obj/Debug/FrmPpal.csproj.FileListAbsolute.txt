@@ -1,0 +1,59 @@
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.cache
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.pdb
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\bin\Debug\EntidadesCorreo.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\bin\Debug\EntidadesCorreo.pdb
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.FormPrincipal.resources
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.FrmPpal.resources
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\Correo.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\GuardarString.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\IMostrar.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\Paquete.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\PaqueteDAO.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\TrackingIdRepetidoException.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\Correo.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\GuardarString.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\IMostrar.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\PaqueteDAO.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\Paquete.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\TrackingIdRepetidoException.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\FrmPpal.exe.config
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\FrmPpal.exe
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\FrmPpal.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\Correo.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\GuardarString.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\IMostrar.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\Paquete.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\PaqueteDAO.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\TrackingIdRepetidoException.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\Correo.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\GuardarString.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\IMostrar.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\PaqueteDAO.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\Paquete.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\bin\Debug\TrackingIdRepetidoException.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csprojAssemblyReference.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.FrmPpal.resources
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csproj.GenerateResource.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.csproj.CopyComplete
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.exe
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\TP4 Recuperatorio - Delgado.Marcos2C\FrmPpal\obj\Debug\FrmPpal.pdb

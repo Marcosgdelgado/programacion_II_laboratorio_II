@@ -1,0 +1,6 @@
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\GuardarString\bin\Debug\GuardarString.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\GuardarString\bin\Debug\GuardarString.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\GuardarString\obj\Debug\GuardarString.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\GuardarString\obj\Debug\GuardarString.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\GuardarString\obj\Debug\GuardarString.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\GuardarString\obj\Debug\GuardarString.pdb

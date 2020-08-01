@@ -1,0 +1,32 @@
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\obj\Debug\MainTP.csprojAssemblyReference.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\obj\Debug\MainTP.csproj.CoreCompileInputs.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\MainTP.exe.config
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\MainTP.exe
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\MainTP.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\obj\Debug\MainTP.exe
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\obj\Debug\MainTP.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\Archivos.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\Clases Abstractas.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\Clases Instanciables.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\Excepciones.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\Archivos.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\Clases Abstractas.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\Clases Instanciables.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\bin\Debug\Excepciones.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\MainTP\obj\Debug\MainTP.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\MainTP.exe.config
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\MainTP.exe
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\MainTP.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Archivos.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Clases Abstractas.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Clases Instanciables.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Excepciones.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Archivos.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Clases Abstractas.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Clases Instanciables.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Excepciones.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.exe
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.pdb

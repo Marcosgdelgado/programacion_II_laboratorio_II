@@ -1,0 +1,18 @@
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\obj\Debug\Clases_Abstractas.csprojAssemblyReference.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\obj\Debug\Clases_Abstractas.csproj.CoreCompileInputs.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\obj\Debug\Clases_Abstractas.csproj.CopyComplete
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases_Abstractas.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases_Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases_Abstractas.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

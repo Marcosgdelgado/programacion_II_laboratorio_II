@@ -1,0 +1,6 @@
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\EntidadesCorreo\obj\Debug\EntidadesCorreo.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\EntidadesCorreo\obj\Debug\EntidadesCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\EntidadesCorreo\bin\Debug\EntidadesCorreo.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\EntidadesCorreo\bin\Debug\EntidadesCorreo.pdb
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\EntidadesCorreo\obj\Debug\EntidadesCorreo.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\EntidadesCorreo\obj\Debug\EntidadesCorreo.pdb

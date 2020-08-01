@@ -1,0 +1,15 @@
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\bin\Debug\Correo.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\bin\Debug\Correo.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\bin\Debug\GuardarString.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\bin\Debug\IMostrar.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\bin\Debug\Paquete.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\bin\Debug\TrackingIdRepetidoException.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\bin\Debug\GuardarString.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\bin\Debug\IMostrar.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\bin\Debug\Paquete.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\bin\Debug\TrackingIdRepetidoException.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\obj\Debug\Correo.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\obj\Debug\Correo.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\obj\Debug\Correo.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\obj\Debug\Correo.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\Correo\obj\Debug\Correo.pdb

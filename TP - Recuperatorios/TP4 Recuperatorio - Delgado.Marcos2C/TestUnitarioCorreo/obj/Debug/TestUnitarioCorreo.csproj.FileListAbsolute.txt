@@ -1,0 +1,48 @@
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\TestUnitarioCorreo.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\TestUnitarioCorreo.pdb
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\EntidadesCorreo.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\EntidadesCorreo.pdb
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\obj\Debug\TestUnitarioCorreo.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\obj\Debug\TestUnitarioCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\obj\Debug\TestUnitarioCorreo.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\obj\Debug\TestUnitarioCorreo.dll
+C:\Users\Pickford\Documents\Programacion 2\TP 4 - Marcos Delgado 2C\TP4 - Delgado.Marcos2C\TestUnitarioCorreo\obj\Debug\TestUnitarioCorreo.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\TestUnitarioCorreo.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\TestUnitarioCorreo.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Correo.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\GuardarString.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\IMostrar.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Paquete.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\PaqueteDAO.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\TrackingIdRepetidoException.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Correo.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\GuardarString.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\IMostrar.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\PaqueteDAO.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Paquete.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\TrackingIdRepetidoException.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\obj\Debug\TestUnitarioCorreo.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\obj\Debug\TestUnitarioCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\obj\Debug\TestUnitarioCorreo.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\obj\Debug\TestUnitarioCorreo.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TestUnitarioCorreo\obj\Debug\TestUnitarioCorreo.pdb

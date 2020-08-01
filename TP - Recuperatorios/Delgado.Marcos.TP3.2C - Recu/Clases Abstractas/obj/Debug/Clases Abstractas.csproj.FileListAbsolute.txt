@@ -1,0 +1,11 @@
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\bin\Debug\Enumerados.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\bin\Debug\Enumerados.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

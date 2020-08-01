@@ -1,0 +1,26 @@
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\bin\Debug\Archivos.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\TP 3 Recuperatorio\Delgado.Marcos.TP3.2C\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

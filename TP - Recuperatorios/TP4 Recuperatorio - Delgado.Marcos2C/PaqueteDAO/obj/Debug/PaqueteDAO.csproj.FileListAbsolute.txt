@@ -1,0 +1,15 @@
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\bin\Debug\PaqueteDAO.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\bin\Debug\PaqueteDAO.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\bin\Debug\Correo.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\bin\Debug\Paquete.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\bin\Debug\IMostrar.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\bin\Debug\TrackingIdRepetidoException.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\bin\Debug\Correo.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\bin\Debug\Paquete.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\bin\Debug\IMostrar.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\bin\Debug\TrackingIdRepetidoException.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\obj\Debug\PaqueteDAO.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\obj\Debug\PaqueteDAO.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\obj\Debug\PaqueteDAO.csproj.CopyComplete
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\obj\Debug\PaqueteDAO.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\PaqueteDAO\obj\Debug\PaqueteDAO.pdb

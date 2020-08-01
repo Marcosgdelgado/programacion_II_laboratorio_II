@@ -1,0 +1,6 @@
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TrackingIdRepetidoException\bin\Debug\TrackingIdRepetidoException.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TrackingIdRepetidoException\bin\Debug\TrackingIdRepetidoException.pdb
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TrackingIdRepetidoException\obj\Debug\TrackingIdRepetidoException.csprojAssemblyReference.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TrackingIdRepetidoException\obj\Debug\TrackingIdRepetidoException.csproj.CoreCompileInputs.cache
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TrackingIdRepetidoException\obj\Debug\TrackingIdRepetidoException.dll
+C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\TP4 Recuperatorio - Delgado.Marcos2C\TrackingIdRepetidoException\obj\Debug\TrackingIdRepetidoException.pdb

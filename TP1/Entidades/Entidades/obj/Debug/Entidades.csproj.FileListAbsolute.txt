@@ -1,0 +1,12 @@
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TP1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TP1\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TP1\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TP1\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TPs\TP1\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TPs\TP1\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TPs\TP1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TPs\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TPs\TP1\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\mdelgado034\Documents\UTN\Progamación II\TPs\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb
