@@ -127,16 +127,7 @@ namespace EntidadesInstanciables
         /// <returns>True = en caso de estar cargado / False en caso de no estarlo </returns>
         public static bool operator == (Jornada j, Alumno a)
         {
-            bool retorno = false;
-            foreach (Alumno alumno in j.Alumnos)
-            {
-                if (alumno == a)
-                {
-                    retorno = true;
-                    break;
-                }
-            }
-            return retorno;
+            return j.Alumnos.Contains(a);
         }
         
         /// <summary>
@@ -147,14 +138,11 @@ namespace EntidadesInstanciables
         /// <returns> true = jornada con nuevo alumno / false = lanzara exption </returns>
         public static Jornada operator +(Jornada j, Alumno a)
         {
-            if (j != a)
+            if (!(j is null && a is null) && j != a)
             {
-                j.Alumnos.Add(a);
+                j.alumnos.Add(a);
             }
-            else
-            {
-                throw new AlumnoRepetidoException();
-            }
+          
             return j;
         }
         

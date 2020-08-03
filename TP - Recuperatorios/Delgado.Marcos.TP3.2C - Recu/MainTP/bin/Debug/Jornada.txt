@@ -1,21 +1,23 @@
-Clase de Programacion por Nombre completo: Lopez, Juan
+Clase de Programacion por Juan Lopez
 Nacionalidad: Argentino
 Numero de legajo:1
 
 Clases del dia: 
+Laboratorio
 Programacion
-SPD
 
 Alumnos: 
-Nombre completo: Lopez, Juan
+Nombre alumno: Juan Lopez
 Nacionalidad: Argentino
 Numero de legajo:1
 
 Estado de cuenta: Becado
 Toma clases de: Programacion
-Nombre completo: Gonzalez, Carlos
+
+Nombre alumno: Carlos Gonzalez
 Nacionalidad: Argentino
 Numero de legajo:5
 
 Estado de cuenta: AlDia
 Toma clases de: Programacion
+

@@ -12,6 +12,10 @@ using Excepciones;
 
 namespace EntidadesInstanciables
 {
+    [XmlInclude(typeof(Persona))]
+    [XmlInclude(typeof(Universitario))]
+    [XmlInclude(typeof(Alumno))]
+    [XmlInclude(typeof(Profesor))]
     public class Universidad
     {
         private List<Alumno> alumnos;
@@ -75,7 +79,7 @@ namespace EntidadesInstanciables
             }
             set
             {
-                if (i >= 0 && i < this.Jornada.Count)
+                if (i >= 0 ) //&& i < this.Jornada.Count)
                 {
                     this.Jornada[i] = value;
                 }
@@ -89,18 +93,21 @@ namespace EntidadesInstanciables
         /// <returns>True= objeto serializada / en caso de error lanza exception </returns>
         public static bool Guardar(Universidad uni)
         {
-            Xml<Universidad> writer = new Xml<Universidad>();
-
             try
             {
-                return writer.Guardar("Universidad.xml", uni);
+                string file_name = string.Format("{0}{1}", AppDomain.CurrentDomain.BaseDirectory, "universidad.xml");
+                if (!(uni is null) && new Xml<Universidad>().Guardar(file_name, uni))
+                    return true;
+            }
+            catch (ArchivosException ex)
+            {
+                throw ex;
             }
             catch (Exception e)
             {
-
                 throw new ArchivosException(e);
             }
-                
+            return false;
         }
 
         /// <summary>
@@ -109,19 +116,22 @@ namespace EntidadesInstanciables
         /// <returns>True= objeto deserializado, en caso de error lanza exception </returns>
         public static Universidad Leer()
         {
-            Xml<Universidad> reader = new Xml<Universidad>();
-            Universidad retorno = new Universidad();
-
+            string file_name = string.Format("{0}{1}", AppDomain.CurrentDomain.BaseDirectory, "universidad.xml");
+            Universidad u;
             try
             {
-                reader.Leer("Universidad.xml", out retorno);
+                if (new Xml<Universidad>().Leer(file_name, out u))
+                    return u;
+            }
+            catch (ArchivosException ex)
+            {
+                throw ex;
             }
             catch (Exception e)
             {
-
                 throw new ArchivosException(e);
             }
-            return retorno;
+            return u;
         }
 
         /// <summary>
@@ -132,10 +142,8 @@ namespace EntidadesInstanciables
         /// <returns></returns>
         public static Universidad operator +(Universidad g, EClases clase)
         {
-            Jornada jornada;
-            Profesor profesor = (g == clase);
-            jornada = new Jornada(clase, profesor);
-
+            Jornada jornada = new Jornada(clase, g == clase);
+           
             foreach (Alumno alumno in g.Alumnos)
             {
                 if (alumno == clase)
@@ -203,14 +211,18 @@ namespace EntidadesInstanciables
         {
             bool retorno = false;
 
-            foreach (Alumno alumno in g.Alumnos)
+            if (!(g is null && a is null))
             {
-                if (a == alumno)
+                foreach (Alumno alumno in g.Alumnos)
                 {
-                    retorno = true;
-                    break;
+                    if (alumno == a)
+                    {
+                        retorno = true;
+                        break;
+                    }
                 }
             }
+           
             return retorno;
         }
 
@@ -232,15 +244,18 @@ namespace EntidadesInstanciables
         /// <param name="g">universidad</param>
         /// <param name="i">Profesor</param>
         /// <returns> true = en caso de estar cargado / false = en caso de no estarlo </returns>
-        public static bool operator ==(Universidad g, Profesor i)
+        public static bool operator == (Universidad g, Profesor i)
         {
             bool retorno = false;
-            foreach (Profesor profesor in g.Instructores)
+            if (!(g is null && i is null))
             {
-                if ( i == profesor)
+                foreach (Profesor profesor in g.Instructores)
                 {
-                    retorno = true;
-                    break;
+                    if (profesor == i)
+                    {
+                        retorno = true;
+                        break;
+                    }
                 }
             }
             return retorno;
@@ -256,14 +271,19 @@ namespace EntidadesInstanciables
         public static Profesor operator !=(Universidad u, EClases clase)
         {
             Profesor retorno = null;
-            foreach (Profesor profesor in u.Instructores)
+            if (!(u is null))
             {
-                if (profesor != clase)
+                foreach (Profesor profesor in u.Instructores)
                 {
-                    retorno = profesor;
-                    break;
+                    if (profesor != clase)
+                    {
+                        retorno = profesor;
+                        break;
+                    }
                 }
+
             }
+            
             return retorno;
         }
 
@@ -277,14 +297,18 @@ namespace EntidadesInstanciables
         public static Profesor operator == (Universidad u, EClases clase)
         {
             Profesor retorno = null;
-            foreach (Profesor profesor in u.Instructores)
+
+            if (!(u is null))
             {
-                if (profesor == clase)
+                foreach (Profesor profesor in u.Instructores)
                 {
-                    retorno = profesor;
-                    break;
+                    if (profesor == clase)
+                    {
+                        retorno = profesor;
+                        break;
+                    }
                 }
-            }
+            }  
             if (retorno is null)
             {
                 throw new SinProfesorException();
@@ -315,7 +339,6 @@ namespace EntidadesInstanciables
                 sb.AppendLine(jornada.ToString());
                 sb.AppendLine("--------------------------\n");
             }
-
             return sb.ToString();
         }
 

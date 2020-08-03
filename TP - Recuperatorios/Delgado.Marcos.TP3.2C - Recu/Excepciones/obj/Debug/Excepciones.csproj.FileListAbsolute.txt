@@ -10,3 +10,9 @@ C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgad
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Excepciones\obj\Debug\Excepciones.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Excepciones\bin\Debug\Excepciones.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Excepciones\bin\Debug\Excepciones.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Excepciones\obj\Debug\Excepciones.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Excepciones\obj\Debug\Excepciones.pdb

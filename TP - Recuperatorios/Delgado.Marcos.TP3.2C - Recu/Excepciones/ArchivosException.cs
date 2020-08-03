@@ -11,9 +11,22 @@ namespace Excepciones
         /// <summary>
         /// Inicializa mensaje de excepcion
         /// </summary>
-        public ArchivosException(Exception innerException) : base("Error en el archivo", innerException)
+        public ArchivosException():this("Error en Archivo")
         {
 
+        }
+
+        public ArchivosException(Exception innerException):this(innerException, innerException.Message)
+        {
+
+        }
+
+        public ArchivosException(string message):this(null,message)
+        {
+        }
+
+        public ArchivosException(Exception innerException, string message):base(message, innerException)
+        {
         }
 
     }

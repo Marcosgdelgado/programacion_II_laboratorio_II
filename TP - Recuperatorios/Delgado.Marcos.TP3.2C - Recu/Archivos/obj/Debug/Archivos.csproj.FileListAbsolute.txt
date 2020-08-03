@@ -16,3 +16,12 @@ C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgad
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.dll
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Archivos\bin\Debug\Archivos.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Archivos\bin\Debug\Archivos.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Archivos\bin\Debug\Excepciones.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Archivos\bin\Debug\Excepciones.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Archivos\obj\Debug\Archivos.pdb

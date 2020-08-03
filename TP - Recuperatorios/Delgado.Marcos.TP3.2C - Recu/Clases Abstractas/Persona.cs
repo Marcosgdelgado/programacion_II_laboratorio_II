@@ -4,8 +4,9 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Xml.Serialization;
 using Excepciones;
+using System.Text.RegularExpressions;
 
 namespace EntidadesAbstractas
 {
@@ -15,7 +16,17 @@ namespace EntidadesAbstractas
         private int dni;
         private ENacionalidad nacionalidad;
         private string nombre;
-        
+
+
+        /// <summary>
+        /// Propiedad de lectura y escritura atributo nombre
+        /// </summary>
+        public string Nombre
+        {
+            get { return this.nombre; }
+            set { this.nombre = this.ValidarNombre(value); }
+        }
+
         /// <summary>
         /// Propiedad de lectura y escritura atributo apellido
         /// </summary>
@@ -26,30 +37,21 @@ namespace EntidadesAbstractas
         }
 
         /// <summary>
-        /// Propiedad de lectura y escritura atributo DNI
-        /// </summary>
-        public int Dni 
-        { 
-            get { return this.dni; }
-            set { this.dni = this.ValidarDni(this.nacionalidad, value); } 
-        }
-
-        /// <summary>
         /// Propiedad de lectura y escritura atributo nacionalidad
         /// </summary>
-        public ENacionalidad Nacionalidad 
+        public ENacionalidad Nacionalidad
         {
             get { return this.nacionalidad; }
             set { this.nacionalidad = value; }
         }
 
         /// <summary>
-        /// Propiedad de lectura y escritura atributo nombre
+        /// Propiedad de lectura y escritura atributo DNI
         /// </summary>
-        public string Nombre 
-        {
-            get { return this.nombre; }
-            set { this.nombre = this.ValidarNombre(value); }
+        public int Dni 
+        { 
+            get { return this.dni; }
+            set { this.dni = this.ValidarDni(this.nacionalidad, value); } 
         }
 
         /// <summary>
@@ -73,7 +75,7 @@ namespace EntidadesAbstractas
         /// <param name="nombre">nombre de persona</param>
         /// <param name="apellido">apellido de persona</param>
         /// <param name="nacionalidad">nacionalidad de nacionalidad</param>
-        public Persona(string nombre, string apellido, ENacionalidad nacionalidad):this()
+        public Persona(string nombre, string apellido, ENacionalidad nacionalidad)
         {
             this.nombre = nombre;
             this.apellido = apellido;
@@ -110,7 +112,7 @@ namespace EntidadesAbstractas
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            //sb.AppendLine($"Nombre completo: {this.Apellido}, {this.Nombre}");
+            
             sb.AppendLine($"Nacionalidad: {this.Nacionalidad}");
             return sb.ToString();
         }
@@ -160,7 +162,7 @@ namespace EntidadesAbstractas
         private int ValidarDni(ENacionalidad nacionalidad, string dato)
         {
             int dni = 0;
-            
+
             if (dato.Length > 0 && dato.Length <= 8 && (int.TryParse(dato, out dni)))
             {
                 dni = ValidarDni(nacionalidad, dni);
