@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 using EntidadesAbstractas;
-
 using static EntidadesInstanciables.Universidad;
+
 
 namespace EntidadesInstanciables
 {
@@ -65,8 +65,8 @@ namespace EntidadesInstanciables
         /// </summary>
         /// <returns>String con valores de clase base mas clase en la que participa</returns>
         protected override string MostrarDatos()
-        {
-            return string.Format("{0}\n{1}", base.MostrarDatos(), this.ParticiparEnClase());   
+        {   
+            return string.Format("{0} {1}\n{2}\n{3}", this.Nombre, this.Apellido, base.MostrarDatos(), this.ParticiparEnClase());   
         }
 
         /// <summary>
@@ -95,6 +95,7 @@ namespace EntidadesInstanciables
         {
             return i.clasesDelDia.Contains(clase);
         }
+
         /// <summary>
         /// Operador != verifica si profesor esta designado a esa clase
         /// reutiliza codigo de operador ==
@@ -115,7 +116,5 @@ namespace EntidadesInstanciables
         {
             return this.MostrarDatos();
         }
-
-
     }
 }

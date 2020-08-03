@@ -167,6 +167,7 @@ namespace EntidadesInstanciables
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Clase de {this.Clase} por {this.Instructor}");
             sb.AppendLine("Alumnos: ");
+
             foreach (Alumno alumno in this.Alumnos)
             {
                 sb.Append(alumno.ToString());

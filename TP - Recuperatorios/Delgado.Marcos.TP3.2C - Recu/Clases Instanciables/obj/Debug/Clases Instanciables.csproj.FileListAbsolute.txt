@@ -24,3 +24,16 @@ C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgad
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.dll
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Archivos.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Excepciones.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Archivos.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\bin\Debug\Excepciones.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

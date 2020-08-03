@@ -16,3 +16,12 @@ C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgad
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases_Abstractas.csproj.CopyComplete
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases Abstractas.dll
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\bin\Debug\Excepciones.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\bin\Debug\Excepciones.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases_Abstractas.csprojAssemblyReference.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases_Abstractas.csproj.CoreCompileInputs.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases_Abstractas.csproj.CopyComplete
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

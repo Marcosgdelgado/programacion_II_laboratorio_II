@@ -60,9 +60,10 @@ namespace EntidadesInstanciables
         {
             StringBuilder sb = new StringBuilder();
 
+            sb.AppendLine($"Nombre alumno: {this.Nombre} {this.Apellido}");
             sb.AppendLine(base.MostrarDatos());
             sb.AppendLine($"Estado de cuenta: {this.estadoCuenta}");
-            sb.AppendLine($"Toma clases de: {this.claseQueToma}");
+            sb.AppendLine($"Toma clases de: {this.claseQueToma}\n");
 
             return sb.ToString();
         }

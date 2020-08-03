@@ -309,7 +309,7 @@ namespace EntidadesInstanciables
         private static string MostrarDatos(Universidad uni)
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("Jornada");
+            sb.AppendLine("\nJornada:");
             foreach (Jornada jornada in uni.Jornada)
             {
                 sb.AppendLine(jornada.ToString());

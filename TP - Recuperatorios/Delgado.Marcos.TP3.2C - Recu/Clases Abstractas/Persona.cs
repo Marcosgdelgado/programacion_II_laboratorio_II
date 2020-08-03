@@ -110,8 +110,7 @@ namespace EntidadesAbstractas
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-
-            sb.AppendLine($"Nombre completo: {this.Apellido}, {this.Nombre}");
+            //sb.AppendLine($"Nombre completo: {this.Apellido}, {this.Nombre}");
             sb.AppendLine($"Nacionalidad: {this.Nacionalidad}");
             return sb.ToString();
         }
@@ -124,16 +123,33 @@ namespace EntidadesAbstractas
         /// <returns>True= valor dni / False= lanzara exception </returns>
         private int ValidarDni(ENacionalidad nacionalidad, int dni)
         {
-            if ((nacionalidad == ENacionalidad.Argentino && dni >= 1 && dni <= 89999999) || 
-                (nacionalidad==ENacionalidad.Extranjero && dni >= 90000000 && dni <= 99999999) )
+            int retorno = 0;
+            switch (nacionalidad)
             {
-                return dni;
+                case ENacionalidad.Argentino:
+                    if (dni >= 1 && dni <= 89999999)
+                    {
+                        retorno = dni;
+                    }
+                    else
+                    {
+                        throw new NacionalidadInvalidaException("DNI no corresponde a nacionaliad argentina");
+                    }
+                    break;
+                case ENacionalidad.Extranjero:
+                    if (dni >= 90000000 && dni <= 99999999)
+                    {
+                        retorno = dni;
+                    }
+                    else
+                    {
+                        throw new NacionalidadInvalidaException("DNI no corresponde a nacionaliad extranjera");
+                    }
+                    break;
+                default:
+                    break;
             }
-            else
-            {
-                throw new NacionalidadInvalidaException();
-            }
-            
+            return retorno;
         }
         /// <summary>
         /// Validara que dni no contenga letras ni caracteres especiales, ademas de que su longitud sea ente 1 a 8
@@ -143,18 +159,17 @@ namespace EntidadesAbstractas
         /// <returns>True= valor dni / False= dni = 0 y lanzara exception</returns>
         private int ValidarDni(ENacionalidad nacionalidad, string dato)
         {
-            int dni;
-            int retorno = 0;
-
+            int dni = 0;
+            
             if (dato.Length > 0 && dato.Length <= 8 && (int.TryParse(dato, out dni)))
             {
-                retorno = dni;
+                dni = ValidarDni(nacionalidad, dni);
             }
             else
             {
                 throw new DniInvalidoException("Dni invalido");
             }
-            return retorno;
+            return dni;
         }
         
         /// <summary>

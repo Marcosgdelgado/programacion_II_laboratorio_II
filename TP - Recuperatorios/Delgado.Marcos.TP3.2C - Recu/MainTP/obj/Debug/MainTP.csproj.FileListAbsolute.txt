@@ -30,3 +30,19 @@ C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgad
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.csproj.CopyComplete
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.exe
 C:\Users\Pickford\Documents\Programacion 2\programacion_II_laboratorio_II\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\MainTP.exe.config
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\MainTP.exe
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\MainTP.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Archivos.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Clases Abstractas.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Clases Instanciables.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Excepciones.dll
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Archivos.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Clases Abstractas.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Clases Instanciables.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\bin\Debug\Excepciones.pdb
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.csprojAssemblyReference.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.csproj.CoreCompileInputs.cache
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.csproj.CopyComplete
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.exe
+F:\Pickford\programacion_II_laboratorio_II\TP - Recuperatorios\Delgado.Marcos.TP3.2C - Recu\MainTP\obj\Debug\MainTP.pdb
